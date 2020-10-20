@@ -1,0 +1,50 @@
+a{
+	 color: #322C2C;
+	 background-color: white;
+
+}
+
+.navbar-nav{
+ background-color: white;
+
+}
+
+
+
+li{
+	display:inline;
+    padding: 0px 40px;
+    font-family:times new roman,times,serif;
+}
+
+.menu{
+	background-color: white;
+
+}
+hr{
+	color:black;
+	size:30px;
+}
+
+img{
+	background-size: cover;
+}
+
+
+.secondblock{
+	font-family:times new roman,times,serif;
+	font-size: 16px;
+}
+.map-container{
+	overflow:hidden;
+	padding-bottom:56.25%;
+	position:relative;
+	height:0;
+	}
+.map-container iframe{
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+	position:absolute;
+	}
