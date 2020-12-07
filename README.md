@@ -1,2 +1,2 @@
 # ethereal_customs
-It's An Appointment Booking web app
+It is an Appointment Booking web app
